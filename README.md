@@ -1,4 +1,4 @@
-### strapi.asasvirtuais.com
+# strapi.asasvirtuais.com
 
 Strapi example
 
